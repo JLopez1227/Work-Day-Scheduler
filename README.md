@@ -5,7 +5,7 @@ In this assignment we were tasked with making the Work Day Scheduler starter cod
 
 ### Links
 [Git Page](https://jlopez1227.github.io/Work-Day-Scheduler/)
-[Git Hub Repo]()
+[Git Hub Repo](https://github.com/JLopez1227/Work-Day-Scheduler)
 ### Preview
 The following image demonstrates the web application's apperance and functionality:
 ![Preview of Website(Desktop)](./Screenshot%202023-06-12%20113200.png)
